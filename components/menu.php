@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-<nav class="navbar" role="navigation" aria-label="main navigation">
+<nav class="navbar" role="navigation" aria-label="main navigation" style="background-color: black; color: white;">
         <div class="navbar-brand">
             <a class="navbar-item" href="javascript:void(0)">
                 <img src="https://www.udbvirtual.edu.sv/soporte_tecnico/logo.php">
@@ -15,7 +15,7 @@
 
         <div id="navbarBasicExample" class="navbar-menu">
             <div class="navbar-start">
-                <a class="navbar-item">
+                <a class="navbar-item" href="http://localhost/GUIAS_LG190078/">
                     INICIO
                 </a>
 

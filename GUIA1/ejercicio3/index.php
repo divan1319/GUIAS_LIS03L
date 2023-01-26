@@ -13,7 +13,9 @@
 
     </style>
 </head>
-<body>
+<body >
+<?php include('../../components/menu.php'); ?>
+<div class="container">
     <?php
         $a = 8;
         $b = 3;
@@ -27,5 +29,6 @@
         echo $b,"<br>";
         
     ?>
+    </div>
 </body>
 </html>

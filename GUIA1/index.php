@@ -14,7 +14,7 @@
         <div class="container p p-4 mt mt-4">
         <article class="panel is-link">
   <p class="panel-heading">
-    Link
+    GUIA 1
   </p>
   <p class="panel-tabs">
     <a class="is-active">Ejercicios</a>

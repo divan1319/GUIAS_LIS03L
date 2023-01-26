@@ -14,6 +14,8 @@
     </style>
 </head>
 <body>
+<?php include('../../components/menu.php'); ?>
+<div class="container">
     <?php
         $a = 1;
         $b = 2.34;
@@ -22,5 +24,6 @@
         echo $a, "<br>",$b,"<br>",$c;
 
     ?>
+    </div>
 </body>
 </html>

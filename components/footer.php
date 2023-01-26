@@ -1,4 +1,4 @@
-<footer class="footer">
+<footer class="footer footer-padding" >
   <div class="content has-text-centered">
     <p>
       Sitio creado para la entrega de guias para la materia de LIS03L (Lenguajes Interpretados por el Servidor).
