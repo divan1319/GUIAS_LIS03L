@@ -10,7 +10,8 @@
 </head>
 
 <body>
-    <br><br>
+<?php include('../../../components/menu.php'); ?>
+<br><br>
     <div class="container is-max-desktop">
         <form method="POST" action="datos.php" name="formDatos">
             <div class="field">

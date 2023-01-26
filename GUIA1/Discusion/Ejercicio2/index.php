@@ -10,7 +10,7 @@
 </head>
 
 <body>
-
+<?php include('../../../components/menu.php'); ?>
     <div class="container is-max-desktop has-text-centered">
         <h3 class="title is-3 mt mt-5">Conversor USD to EUR</h3>
     </div>

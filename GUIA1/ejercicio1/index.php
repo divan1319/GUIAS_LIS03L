@@ -10,6 +10,7 @@
     <script src="js/prefixfree.min.js"></script>
 </head>
 <body>
+<?php include('../../components/menu.php'); ?>
     <div class="wrap">
         <header>
             <h1>Demostración de HTML y PHP</h1>
