@@ -1,2 +1,5 @@
-# GUIAS_LG190078
-GUIAS LABORATORIO LIS03L
+# GUIAS LABG03L
+## Integrantes
+Daniel Iván López García
+
+Sergio Denilson Guevara De Leon
