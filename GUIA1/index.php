@@ -69,6 +69,18 @@
     </span>
     DISCUSION Ejercicio 2
   </a>
+    <a class="panel-block" href="complementario/1/">
+    <span class="panel-icon">
+      <i class="fas fa-book" aria-hidden="true"></i>
+    </span>
+    COMPLEMENTARIO 1
+  </a>
+  <a class="panel-block" href="complementario/2/">
+    <span class="panel-icon">
+      <i class="fas fa-book" aria-hidden="true"></i>
+    </span>
+    COMPLEMENTARIO 2
+  </a>
 </article>
         </div>
     </div>
