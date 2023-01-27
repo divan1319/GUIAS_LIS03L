@@ -10,6 +10,7 @@ scale=1.0,maximum-scale=1.0,minimum-scale=1.0" />
    <script src="js/modernizr.custom.lis.js"></script>
 </head>
 <body>
+<?php include('../../components/menu.php'); ?>
 <header>
    <h1>Ingreso de datos</h1>
 </header>

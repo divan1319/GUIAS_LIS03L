@@ -51,7 +51,7 @@
     </span>
     Ejercicio 5
   </a>
-  <a class="panel-block" href="ejercicio6/ingresodatos.html">
+  <a class="panel-block" href="ejercicio6">
     <span class="panel-icon">
       <i class="fas fa-book" aria-hidden="true"></i>
     </span>

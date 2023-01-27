@@ -62,7 +62,7 @@ $total = 0;
         </tbody>
     </table>
     <div id="link">
-        <a href="ingresodatos.html" class="button-link">Ingresar nuevos datos</a>
+        <a href="./" class="button-link">Ingresar nuevos datos</a>
     </div>
             </div>
         </article>
