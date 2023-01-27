@@ -1,0 +1,69 @@
+/********************************
+*    Estilos para las tablas    *
+********************************/
+body                     {
+background-color: #1E1F1C;
+    font: 16px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+div{
+    max-width: 100%;
+    background-color: #4479BA;
+    padding: 20px;
+    border-radius: 2%;
+    margin: 20px;
+}
+
+caption                  {
+    font-size: 1.2em;
+}
+table{
+    border-color: #272822;
+    border-style: solid;
+}
+
+/* Estilos ocupados en el ejemplo de formularios */
+#hor-zebra               {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 0.85em;
+	margin: 45px;
+	width: 480px;
+	text-align: left;
+	border-collapse: collapse;
+  
+}
+
+#hor-zebra th            {
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.6em;
+	padding: 10px 8px;
+	color: #039;
+    
+}
+
+#hor-zebra td            {
+	color: 'black';
+	line-height: 1.6em;
+	padding: 0.2em;
+    border-color: #272822;
+    border-style: solid;
+}
+
+#hor-zebra .thead        {
+text-align: center;
+    background: #272822;
+}
+
+#hor-zebra .thead th     {
+    padding: 10px 8px;
+    color: #ffffff;
+    font:Bold 0.85em "Lucida Sans Unicode", Helvetica, Sans-Serif;
+}
+
+#hor-zebra .odd          {
+	
+}
+
