@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Comparar números</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0"/>
+    <meta http-equiv="Contet-Script-Type" content="text/javascript" />
+    <link rel="http://fonts.googleapis.com/css?family=Muli" href="stylesheet">
+    <link rel="stylesheet" href="css/font.css">
+    <link rel="stylesheet" href="css/formstyle.css"/>
+    <script src="js/validar.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Calculo de dias vividos</h1>
+    </header>
+    <section>
+        <article id="formarea">
+                <form name="frmpalabras" method="POST" action="edad.php">
+                    <fieldset>
+                        <label for="number1"> Ingrese el dia de nacimiento: </label>
+                        <input type="number" name="numero1" id="number1" placeholder="Día" max="31" min="1"/>
+                        <br />
+                        <span id="numbersOnly1">Ingrese números enteros</span>
+                        <label for="number2"> Ingrese el mes de nacimiento: </label>
+                        <input type="number" name="numero2" id="number2" placeholder="Mes" max="12" min="1"/>
+                        <br />
+                        <span id="numbersOnly2">Ingrese números enteros</span>
+                        <label for="number3"> Ingrese el año de nacimiento: </label>
+                        <input type="number" name="numero3" id="number3" placeholder="Año"  max="2023" min="1940"/>
+                        <br />
+                        <span id="numbersOnly3">Ingrese números enteros</span>
+                        <input type="submit" name="conteo" id="count" value="Enviar" >
+                    </fieldset>
+                </form>
+        </article>
+    </section>
+</body>
+</html>

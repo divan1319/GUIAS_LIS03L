@@ -90,6 +90,13 @@
         <p>Hoy es <?php echo $dia." ". $numero ?> de <?php echo $mes; ?> del <?php echo $anio;?> </p>
         </div>
     </header>
+    <section>
+        <article>
+            <div class="box box4 shadow4">
+                <p>Son las <?php echo $hora;?></p>
+            </div>
+        </article>
+    </section>
 
     <script src="js/modernizr.custom.lis.js"></script>
     <script src="js/prefixfree.js"></script>
